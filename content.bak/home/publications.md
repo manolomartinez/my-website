@@ -27,7 +27,7 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: '' 
+    exclude_featured: true
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -36,3 +36,7 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
+
+{{% callout note %}}
+Quickly discover relevant content by [filtering publications](./publication/).
+{{% /callout %}}
