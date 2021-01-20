@@ -79,5 +79,5 @@ research at the [Universitat Autònoma de
 Barcelona](https://www.uantwerpen.be/en/) and [The Graduate Center,
 CUNY](http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Philosophy/Philosophy).
 
-Most of what I do is related in some way with the question of what makes
+Most of what I do is related in some way to the question of what makes
 certain entities *be about*, *mean*, or *represent* others.
