@@ -41,6 +41,6 @@ abstract: 'We introduce the virtual special issue on content in signalling syste
   evolution of meaningful signals, and (iii) how the sender-receiver framework relates
   to teleosemantics.'
 publication: '*Studies in History and Philosophy of Science Part C: Studies in History
-  and Philosophy of Biological and Biomedical Sciences*'
+  and Philosophy of Biological and Biomedical Sciences*, 84:101348'
 doi: 10.1016/j.shpsc.2020.101348
 ---
