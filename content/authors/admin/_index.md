@@ -69,7 +69,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am an assistant professor (Ramon y Cajal fellow) at the [philosophy
+I am an assistant professor and Ramon y Cajal fellow at the [philosophy
 department](https://www.ub.edu/portal/web/dp-filosofia/) of the [Universitat de
 Barcelona](http://www.ub.edu/web/ub/en/index.html?). Before that, I was a
 member of [Bence Nanay's research
